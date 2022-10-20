@@ -35,7 +35,7 @@
     left: 247px;
 }
 
-.wrapper .menu-btn {
+.wrapper .menu-btn i {
     position: absolute;
     font-size: 23px;
     transition: all 0.3s ease;
